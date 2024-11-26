@@ -5,3 +5,9 @@
   color:#fff;
   background: #000;
 }
+.list {
+  display:block;
+  margin:0;
+  padding:0;
+  list-style:none;
+}
